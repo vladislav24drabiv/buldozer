@@ -11,6 +11,6 @@
     "gulp-connect": "^3.2.2",
     "gulp-html-replace": "^1.5.5",
     "gulp-htmlincluder": "^0.1.0",
-    "gulp-livereload": "^3.8.1",
+    "gulp-livereload": "^3.8.1"
   }
 }

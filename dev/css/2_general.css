@@ -1,0 +1,68 @@
+body{
+	font-size: 1.125em;
+	font-family: Verdana, sans-serif;
+}
+.container{
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1000px;
+}
+.row:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.cell{
+	float: left;
+}
+.xs1{
+	width: 12.5%
+
+}
+.xs2{
+	width: 25%
+	
+}
+.xs3{
+	width: 37.5%
+	
+}
+.xs4{
+	width: 50%
+	
+}
+.xs5{
+	width: 62.5%
+}
+.xs6{
+	width: 75%
+	
+}
+.xs7{
+	width: 87.5%
+	
+}
+.xs8{
+	width: 100%
+	
+}
+/*header*/
+.header{
+	background-color: #3f4142;
+	padding: 14px 0;
+}
+.logo{
+	text-align: center;
+	
+}
+.buttom{
+	width: 250px;
+	height: 50px;
+	background: linear-gradient(to bottom, #b07f00 0%, #b07f00 100%);
+	border: none;
+	margin: 0 auto;
+	display: block; 
+}
+.phone{
+
+}
