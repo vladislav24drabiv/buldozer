@@ -1,0 +1,44 @@
+body{
+	font-size: 1.125em;
+	font-family: Verdana, sans-serif;
+}
+.container{
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1000px;
+	position: relative;
+}
+/*grid*/
+
+.row:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.cell{
+	float: left;
+}
+.xs1{
+	width: 12.5%;
+}
+.xs2{
+	width: 25%;
+}
+.xs3{
+	width: 37.5%;
+}
+.xs4{
+	width: 50%;
+}
+.xs5{
+	width: 62.5%;
+}
+.xs6{
+	width: 75%;
+}
+.xs7{
+	width: 87.5%;
+}
+.xs8{
+	width: 100%;
+}

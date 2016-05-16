@@ -1,0 +1,79 @@
+@media screen and (min-width: 800px){
+	.m1{
+		width: 12.5%;
+	}
+	.m2{
+		width: 25%;
+	}
+	.m3{
+		width: 37.5%;
+	}
+	.m4{
+		width: 50%;
+	}
+	.m5{
+		width: 62.5%;
+	}
+	.m6{
+		width: 75%;
+	}
+	.m7{
+		width: 87.5%;
+	}
+	.m8{
+		width: 100%;
+	}
+	.header{
+		padding: 30px 0;
+	}
+	.button{
+		width: 100%;
+		position: relative;
+		top: -6px;
+	}
+	
+}
+@media screen and (min-width: 1000px){
+	.l1{
+		width: 12.5%;
+	}
+	.l2{
+		width: 25%;
+	}
+	.l3{
+		width: 37.5%;
+	}
+	.l4{
+		width: 50%;
+	}
+	.l5{
+		width: 62.5%;
+	}
+	.l6{
+		width: 75%;
+	}
+	.l7{
+		width: 87.5%;
+	}
+	.l8{
+		width: 100%;
+	}
+	.button{
+		width: 50%;
+		height: 36px;
+	}
+	.phone{
+		margin-left: 90px;
+		line-height: 1rem;
+	}
+	.phone-wrap{
+		text-align: right;
+	}
+	.phone-number{
+		font-size: 1rem;
+	}
+	.phone-text{
+		font-size: 0.77777777rem;
+	}
+	
+}

@@ -1,0 +1,45 @@
+/*header*/
+.header{
+	background-color: #3f4142;
+	padding: 14px 0;
+}
+.header-box{
+	margin-bottom: 10px;
+}
+.header-box:last-child{
+	margin-bottom: 0;
+}
+.logo{
+	text-align: center;
+}
+.button{
+	width: 250px;
+	height: 50px;
+	background: linear-gradient(to bottom, #b07f00 0%, #f3af00 100%);
+	border: none;
+	margin: 0 auto;
+	display: block;
+}
+.phone{
+	display: inline-block;
+	padding-left: 16px;
+	background: url(../img/phone.png) no-repeat left center;
+	font-family: "Tahoma";
+	line-height: 1.33333333rem;
+}
+.phone-wrap{
+	text-align: center;
+}
+.phone span{
+	display: block;
+	text-align: center;
+}
+.phone-text{
+	color: #fff;
+	font-size: 1rem;
+	text-decoration: underline;
+}
+.phone-number{
+	color: #f3af00;
+	font-size: 1.33333333rem;
+}
